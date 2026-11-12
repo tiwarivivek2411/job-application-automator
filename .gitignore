@@ -1,0 +1,10 @@
+.DS_Store
+*.log
+candidate_profile.json
+applied_jobs_tracker.csv
+*.csv
+*.xlsx
+*.pdf
+*.docx
+__pycache__/
+*.pyc
